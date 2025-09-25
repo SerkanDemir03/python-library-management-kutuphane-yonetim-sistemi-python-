@@ -1,0 +1,20 @@
+[
+    {
+        "kitap_ad": "Veritaban\u0131 Y\u00f6netim Sistemleri",
+        "yazar": "Ahmet Y\u0131lmaz",
+        "yil": 2018,
+        "isbn": "0987654321"
+    },
+    {
+        "kitap_ad": "Yapay Zeka",
+        "yazar": "Ali Can",
+        "yil": 2021,
+        "isbn": "1122334455"
+    },
+    {
+        "kitap_ad": "Dijital Pazarlama",
+        "yazar": "Zeynep Kaya",
+        "yil": 2019,
+        "isbn": "2233445566"
+    }
+]
