@@ -1,0 +1,36 @@
+[
+    {
+        "ad": "Ozan",
+        "id": 1,
+        "odunc_kitaplar": []
+    },
+    {
+        "ad": "\u0130smail",
+        "id": 2,
+        "odunc_kitaplar": []
+    },
+    {
+        "ad": "Serkan",
+        "id": 3,
+        "odunc_kitaplar": [
+            {
+                "kitap_ad": "Yapay Zeka",
+                "yazar": "Ali Can",
+                "yil": 2021,
+                "isbn": "1122334455"
+            }
+        ]
+    },
+    {
+        "ad": "Emrecem",
+        "id": 4,
+        "odunc_kitaplar": [
+            {
+                "kitap_ad": "Yapay Zeka",
+                "yazar": "Ali Can",
+                "yil": 2021,
+                "isbn": "1122334455"
+            }
+        ]
+    }
+]

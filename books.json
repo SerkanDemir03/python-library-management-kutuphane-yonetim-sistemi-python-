@@ -1,0 +1,20 @@
+[
+    {
+        "kitap_ad": "Veritaban\u0131 Y\u00f6netim Sistemleri",
+        "yazar": "Ahmet Y\u0131lmaz",
+        "yil": 2018,
+        "isbn": "0987654321"
+    },
+    {
+        "kitap_ad": "Dijital Pazarlama",
+        "yazar": "Zeynep Kaya",
+        "yil": 2019,
+        "isbn": "2233445566"
+    },
+    {
+        "kitap_ad": "Tutunamayanlar",
+        "yazar": "O\u011fuz Atay",
+        "yil": 1972,
+        "isbn": "12345678"
+    }
+]
